@@ -1,0 +1,13 @@
+Tabla de usuarios y contraseñas.
+Acceso       Usuario                 Contraseña
+
+Alumno       ana@gmail                1234
+
+Profesorado    carlos@gmail           1234
+
+Administrativo gloria@gmail           1234
+
+base de datos
+
+usuario= dwes
+contraseña =1234
